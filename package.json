@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node index && open http://localhost:2024"
+    "dev": "node index && open http://localhost:2024",
+    "start": "node index.js",
+    "pm-start": "pm2 start npm --name appstore -i 1 -- start && pm2 save",
+    "pm-stop": "pm2 stop appstore && pm2 save",
+    "pm-stopdel": "pm2 stop appstore && pm2 delete appstore && pm2 save"
   },
   "author": "feyi-tech",
   "license": "ISC",
