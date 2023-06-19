@@ -1,0 +1,377 @@
+{
+    "default": {
+        "locale_name": "English",
+        "name": "Feyitech App Store",
+        "title": "Trending Apps",
+        "call_us": "Call Us",
+        "chat_us": "Call Us",
+        "download": "Download",
+        "contact_us": "Contact Us",
+        "apps": [
+            {
+              "site": "https://contactsmaker.feyitech.com", 
+              "app_logo": "./res/apps_images/contactsmaker_32.png",
+              "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+              "android_id": "com.feyitech.whatsappdating",
+              "iphone_id": "",
+              "app_title": "Girlfriend and Contacts Maker",
+              "app_description": "Do you want to grow your whatsapp contacts, create new connections, and increase your status views? Install the app now",
+              "added_on": 1687114001331
+            },
+            {
+              "site": "https://msgtox.feyitech.com", 
+              "app_logo": "./res/apps_images/msgtox_32.png",
+              "app_logo_big": "./res/apps_images/msgtox_192.png",
+              "android_id": "com.feyitech.unknowncallerwa",
+              "iphone_id": "",
+              "app_title": "Message Unknown Caller",
+              "app_description": "Do you want to be able to message people on whatsapp without saving their numbers? List your call logs and message or view unknown caller on whatsapp with just one click? Install the app now.",
+              "added_on": 1687114001331
+            }
+        ]
+    },
+    "languages": {
+      "de-rDE": {
+        "locale_name": "Deutsch (Deutschland)",
+        "name": "Feyitech App Store",
+        "title": "Trending Apps",
+        "call_us": "Rufen Sie uns an",
+        "chat_us": "Chatten Sie mit uns",
+        "download": "Herunterladen",
+        "contact_us": "Kontaktieren Sie uns",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "Freundin und Kontakte Ersteller",
+                "app_description": "Möchten Sie Ihre WhatsApp-Kontakte erweitern, neue Verbindungen herstellen und Ihre Statusansichten erhöhen? Installieren Sie die App jetzt",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "Nachricht von Unbekanntem Anrufer",
+                "app_description": "Möchten Sie in der Lage sein, Personen auf WhatsApp zu schreiben, ohne ihre Nummern zu speichern? Listen Sie Ihre Anruflisten auf und schreiben Sie Nachrichten oder sehen Sie einen unbekannten Anrufer auf WhatsApp mit nur einem Klick! Installieren Sie die App jetzt.",
+                "added_on": 1687114001331
+            }
+        ]
+      },
+      "es-rES": {
+        "locale_name": "Español (España)",
+        "name": "Feyitech App Store",
+        "title": "Aplicaciones populares",
+        "call_us": "Llámanos",
+        "chat_us": "Chatea con nosotros",
+        "download": "Descargar",
+        "contact_us": "Contáctanos",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "Novia y Creador de Contactos",
+                "app_description": "¿Quieres aumentar tus contactos de WhatsApp, crear nuevas conexiones y aumentar las vistas de tu estado? Instala la aplicación ahora",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "Mensaje de Llamante Desconocido",
+                "app_description": "¿Quieres poder enviar mensajes a personas en WhatsApp sin guardar sus números? ¡Lista tus registros de llamadas y envía mensajes o ve a un llamante desconocido en WhatsApp con un solo clic! Instala la aplicación ahora.",
+                "added_on": 1687114001331
+            }
+        ]
+      },
+      "es-rLA": {
+        "locale_name": "Español (Latinoamérica)",
+        "name": "Feyitech App Store",
+        "title": "Aplicaciones populares",
+        "call_us": "Llámanos",
+        "chat_us": "Chatea con nosotros",
+        "download": "Descargar",
+        "contact_us": "Contáctanos",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "Novia y Creador de Contactos",
+                "app_description": "¿Quieres aumentar tus contactos de WhatsApp, crear nuevas conexiones y aumentar las vistas de tu estado? Instala la aplicación ahora",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "Mensaje de Llamante Desconocido",
+                "app_description": "¿Quieres poder enviar mensajes a personas en WhatsApp sin guardar sus números? ¡Lista tus registros de llamadas y envía mensajes o ve a un llamante desconocido en WhatsApp con un solo clic! Instala la aplicación ahora.",
+                "added_on": 1687114001331
+            }
+          ]
+      },
+      "fr-rFR": {
+        "locale_name": "Français (France)",
+        "name": "Feyitech App Store",
+        "title": "Applications tendances",
+        "call_us": "Appelez-nous",
+        "chat_us": "Discutez avec nous",
+        "download": "Télécharger",
+        "contact_us": "Contactez-nous",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "Petite Amie et Créateur de Contacts",
+                "app_description": "Voulez-vous développer vos contacts WhatsApp, créer de nouvelles connexions et augmenter les vues de votre statut ? Installez l'application dès maintenant",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "Message d'Appelant Inconnu",
+                "app_description": "Voulez-vous pouvoir envoyer des messages sur WhatsApp sans enregistrer leurs numéros ? Liste vos journaux d'appels et envoyez un message ou visualisez un appelant inconnu sur WhatsApp en un seul clic ! Installez l'application dès maintenant.",
+                "added_on": 1687114001331
+            }
+        ]
+      },
+      "hi-rIN": {
+        "locale_name": "हिन्दी (भारत)",
+        "name": "Feyitech App Store",
+        "title": "लोकप्रिय ऐप्स",
+        "call_us": "हमें कॉल करें",
+        "chat_us": "हमारे साथ चैट करें",
+        "download": "डाउनलोड करें",
+        "contact_us": "हमसे संपर्क करें",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "गर्लफ्रेंड और संपर्क निर्माता",
+                "app_description": "क्या आप अपने WhatsApp संपर्कों को बढ़ाना चाहते हैं, नए संपर्क बनाना चाहते हैं और अपने स्थिति दृश्यों को बढ़ाना चाहते हैं? अभी ऐप्लिकेशन इंस्टॉल करें",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "अज्ञात कॉलर को संदेश",
+                "app_description": "क्या आप व्हाट्सएप पर लोगों को संदेश भेजने के लिए उनके नंबर सेव किए बिना होना चाहते हैं? अपने कॉल लॉग्स को सूचीबद्ध करें और केवल एक क्लिक के साथ व्हाट्सएप पर अज्ञात कॉलर का संदेश भेजें या देखें! अभी ऐप्लिकेशन इंस्टॉल करें।",
+                "added_on": 1687114001331
+            }
+        ]
+      },
+      "id": {
+        "locale_name": "Bahasa Indonesia",
+        "name": "Feyitech App Store",
+        "title": "Aplikasi Populer",
+        "call_us": "Hubungi Kami",
+        "chat_us": "Chat dengan Kami",
+        "download": "Unduh",
+        "contact_us": "Hubungi Kami",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "Pembuat Pacar dan Kontak",
+                "app_description": "Apakah Anda ingin mengembangkan kontak WhatsApp Anda, menciptakan hubungan baru, dan meningkatkan tampilan status Anda? Instal aplikasi ini sekarang",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "Pesan Penelepon Tidak Dikenal",
+                "app_description": "Apakah Anda ingin bisa mengirim pesan ke orang-orang di WhatsApp tanpa menyimpan nomor mereka? Daftar log panggilan Anda dan kirim pesan atau lihat penelepon tidak dikenal di WhatsApp dengan hanya satu klik. Instal aplikasi ini sekarang.",
+                "added_on": 1687114001331
+            }
+        ]
+      },
+      "it-rIT": {
+        "locale_name": "Italiano (Italia)",
+        "name": "Feyitech App Store",
+        "title": "App in tendenza",
+        "call_us": "Chiamaci",
+        "chat_us": "Chatta con noi",
+        "download": "Scarica",
+        "contact_us": "Contattaci",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "Ragazza e Crea Contatti",
+                "app_description": "Vuoi aumentare i tuoi contatti WhatsApp, creare nuove connessioni e aumentare le visualizzazioni dello stato? Installa l'app ora",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "Messaggio da Chiamante Sconosciuto",
+                "app_description": "Vuoi essere in grado di inviare messaggi su WhatsApp senza salvare i loro numeri? Elenca i tuoi registri di chiamate e invia un messaggio o visualizza un chiamante sconosciuto su WhatsApp con un solo clic! Installa l'app ora.",
+                "added_on": 1687114001331
+            }
+        ]
+      },
+      "ja-rJP": {
+        "locale_name": "日本語 (日本)",
+        "name": "Feyitech App Store",
+        "title": "トレンドアプリ",
+        "call_us": "お電話ください",
+        "chat_us": "チャットでお問い合わせ",
+        "download": "ダウンロード",
+        "contact_us": "お問い合わせ",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "彼女とコンタクトメーカー",
+                "app_description": "WhatsAppの連絡先を増やしたり、新しいつながりを作り、ステータスの閲覧数を増やしたいですか？ 今すぐアプリをインストールしてください",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "不明なコーラーにメッセージを送る",
+                "app_description": "電話番号を保存せずにWhatsAppで人にメッセージを送信できるようにしたいですか？ 通話ログをリストし、ワンクリックでWhatsApp上の不明なコーラーにメッセージを送信または表示できます。 今すぐアプリをインストールしてください。",
+                "added_on": 1687114001331
+            }
+        ]
+      },
+      "pt-rBR": {
+        "locale_name": "Português (Brasil)",
+        "name": "Feyitech App Store",
+        "title": "Aplicativos em Alta",
+        "call_us": "Ligue-nos",
+        "chat_us": "Converse conosco",
+        "download": "Baixar",
+        "contact_us": "Contate-nos",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "Namorada e Criador de Contatos",
+                "app_description": "Você quer aumentar seus contatos no WhatsApp, criar novas conexões e aumentar as visualizações do seu status? Instale o aplicativo agora",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "Mensagem de Chamador Desconhecido",
+                "app_description": "Você quer poder enviar mensagens para pessoas no WhatsApp sem salvar seus números? Liste seus registros de chamadas e envie mensagens ou veja chamador desconhecido no WhatsApp com apenas um clique. Instale o aplicativo agora.",
+                "added_on": 1687114001331
+            }
+        ]
+      },
+      "th": {
+        "locale_name": "ภาษาไทย (ประเทศไทย)",
+        "name": "Feyitech App Store",
+        "title": "แอปยอดนิยม",
+        "call_us": "โทรหาเรา",
+        "chat_us": "แชทกับเรา",
+        "download": "ดาวน์โหลด",
+        "contact_us": "ติดต่อเรา",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "สร้างแฟนสาวและรายชื่อผู้ติดต่อ",
+                "app_description": "คุณต้องการเพิ่มจำนวนรายชื่อผู้ติดต่อ WhatsApp ของคุณ สร้างความเชื่อมั่นใหม่และเพิ่มจำนวนการเข้าชมสถานะของคุณหรือไม่? ติดตั้งแอปพลิเคชันนี้เดี๋ยวนี้",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "ข้อความจากผู้โทรไม่รู้จัก",
+                "app_description": "คุณต้องการส่งข้อความถึงผู้คนใน WhatsApp โดยไม่ต้องบันทึกหมายเลขของพวกเขาใช่ไหม? รายชื่อบันทึกการโทรของคุณและส่งข้อความหรือดูผู้โทรไม่รู้จักใน WhatsApp ด้วยแค่คลิกเดียว! ติดตั้งแอปพลิเคชันนี้เดี๋ยวนี้",
+                "added_on": 1687114001331
+            }
+        ]
+      },
+      "zh-rCN": {
+        "locale_name": "中文 (中国)",
+        "name": "Feyitech App Store",
+        "title": "热门应用",
+        "call_us": "致电我们",
+        "chat_us": "与我们聊天",
+        "download": "下载",
+        "contact_us": "联系我们",
+        "apps": [
+            {
+                "site": "https://contactsmaker.feyitech.com", 
+                "app_logo": "./res/apps_images/contactsmaker_32.png",
+                "app_logo_big": "./res/apps_images/contactsmaker_192.png",
+                "android_id": "com.feyitech.whatsappdating",
+                "iphone_id": "id1528272582",
+                "app_title": "女朋友和联系人生成器",
+                "app_description": "您想扩大您的WhatsApp联系人、建立新的连接并增加状态浏览次数吗？立即安装该应用程序",
+                "added_on": 1687114001331
+            },
+            {
+                "site": "https://msgtox.feyitech.com", 
+                "app_logo": "./res/apps_images/msgtox_32.png",
+                "app_logo_big": "./res/apps_images/msgtox_192.png",
+                "android_id": "com.feyitech.unknowncallerwa",
+                "app_title": "未知来电者消息",
+                "app_description": "您想能够在WhatsApp上给人发送消息而不保存他们的号码吗？列出您的通话记录并通过仅需一次点击在WhatsApp上发送消息或查看未知来电者！立即安装该应用程序。",
+                "added_on": 1687114001331
+            }
+        ]
+      }
+    },
+    "fallbacks": {
+        "de": "de-rDE",
+        "es": "es-rES",
+        "fr": "fr-rFR",
+        "hi": "hi-rIN",
+        "id": "id",
+        "it": "rIT",
+        "ja": "rJP",
+        "pt": "rBR",
+        "th": "th",
+        "zh": "zh-rCN"
+    }
+}
